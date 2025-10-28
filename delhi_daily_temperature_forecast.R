@@ -84,7 +84,11 @@ plot(forecast_temp,
      
      main = "Temperature Forecast for Next 30 Days",
      
-     xlab = "Time", ylab = "Mean Temperature (°C)")  # Visualize forecast and confidence intervals
+     xlab = "Time", ylab = "Mean Temperature (°C)")
+    
+
+
+
 
 
 
